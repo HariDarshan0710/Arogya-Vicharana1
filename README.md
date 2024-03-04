@@ -1,3 +1,5 @@
+Machine Learning web app integrated with ML models (Gestation Diabetes, Diabetic Cardiomypathy, Diabetic Nephropathy, Diabetic Prediction) predict whether he/she has diabetes related problems diseases
+
 ![WhatsApp Image 2024-03-04 at 13 51 31_7d66057b](https://github.com/HariDarshan0710/Arogya-Vicharana1/assets/131495415/5c1e9a8e-db20-4f19-9605-949e6820c243)
 
 ![WhatsApp Image 2024-03-04 at 13 51 31_54c8d18a](https://github.com/HariDarshan0710/Arogya-Vicharana1/assets/131495415/954f6642-b488-4f93-9634-86a9ff6292dc)
