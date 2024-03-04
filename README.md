@@ -1,4 +1,4 @@
-**Machine Learning web app integrated with ML models Used KNN ,RF achived accuracy of AUROC 97% (Gestation Diabetes, Diabetic Cardiomypathy, Diabetic Nephropathy, Diabetic Prediction) predict whether he/she has diabetes related problems diseases**
+<span style="font-size:30px;">Machine Learning web app integrated with ML models Used KNN ,RF achived accuracy of AUROC 97% (Gestation Diabetes, Diabetic Cardiomypathy, Diabetic Nephropathy, Diabetic Prediction) predict whether he/she has diabetes related problems diseases</span>
 
 ![WhatsApp Image 2024-03-04 at 13 51 31_7d66057b](https://github.com/HariDarshan0710/Arogya-Vicharana1/assets/131495415/5c1e9a8e-db20-4f19-9605-949e6820c243)
 
